@@ -2,6 +2,6 @@ public class MyProj {
     public static void main(String[] args) {
         int x = 7;
         int y = 5;
-        char a = 'a';
+        //why like this?
     }
 }
